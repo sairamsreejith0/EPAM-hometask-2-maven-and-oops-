@@ -14,7 +14,7 @@ public class Newyeargiftbox
         System.out.println("fill the gift box with different types of sweets available below");
         while(n) {
        
-        System.out.println("Available SWEETS");
+        System.out.println("AVAILABLE SWEETS");
         System.out.println("1.DARK CHOCOLATE!!");
         System.out.println("2.MILK CHOCOLATE!!");
         System.out.println("3.WHITE CHOCOLATE!!");
